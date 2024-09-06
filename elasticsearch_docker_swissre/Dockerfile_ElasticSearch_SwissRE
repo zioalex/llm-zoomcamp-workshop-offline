@@ -1,0 +1,5 @@
+FROM docker-elastic-co.artifact.swissre.com/elasticsearch/elasticsearch:8.4.3
+COPY certs/* /usr/local/share/ca-certificates/
+USER root
+RUN update-ca-certificates
+USER elasticsearch
