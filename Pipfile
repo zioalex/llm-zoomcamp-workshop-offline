@@ -1,4 +1,9 @@
 [[source]]
+url = "https://artifact.dso.swissre.com/artifactory/api/pypi/python/simple"
+verify_ssl = true
+name = "SwissRE Artifactory"
+
+[[source]]
 url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
@@ -18,6 +23,8 @@ python-docx = "*"
 matplotlib = "*"
 plotly = "*"
 dash = "*"
+torch = "*"
+transformers = "*"
 
 [dev-packages]
 
