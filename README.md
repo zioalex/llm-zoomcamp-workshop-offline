@@ -10,7 +10,7 @@ Then select the kernel in jupyter notebook:
 
 
 ## Record track
-
+### Build your own search engine
 [https://www.youtube.com/watch?v=nMrGK5QgPVE}(Implement a Search Engine - Alexey Grigorev)
 
 Implement a Search Engine
@@ -36,3 +36,10 @@ In this way we take care of sinonims.
 
 --- Mins 1.27.21
 Run the cell 100 do download the model.
+
+
+### LLM Zoomcam 1.1 - Introduction to LLM and RAG
+
+https://www.youtube.com/watch?v=Q75JgLEXMsM&list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R
+
+
