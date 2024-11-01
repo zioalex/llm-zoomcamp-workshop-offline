@@ -34,7 +34,9 @@ What we will do:
 * Alternative: installing anaconda or miniconda
 
 ```bash
-pipenv install tqdm notebook==7.1.2 openai elasticsearch pandas scikit-learn ipywidgets
+cd /home/vscode
+pipenv shell
+pipenv install tqdm notebook==7.1.2 openai elasticsearch pandas  numpy scikit-learn jupyter ipywidgets ipykernel
 ```
 
 apt install direnv # to manage token secretly
